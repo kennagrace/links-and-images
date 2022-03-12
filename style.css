@@ -1,0 +1,51 @@
+picture {
+    width:100% }
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-family: 'Euphoria Script', cursive;
+    color: #507882
+    }
+
+.font2{
+    font-family: 'Raleway', sans-serif;
+}
+
+h2{
+    font-family: 'Euphoria Script', cursive;
+    color: #507882
+}
+
+h3{
+    font-family: 'Euphoria Script', cursive;
+    color: #507882
+}
+
+a:hover{
+    color: #edd7c8;
+}
+
+.button{
+    background-color: #e1eff0;
+    text-align:center
+    color: white;
+    padding: 8px 15px;
+    font-size: 20px; 
+    border-radius: 8px;
+}
+
+.button:hover {
+    background-color: #edd7c8;
+    color: black;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+main{
+    margin: 0 auto;
+    padding: 0 1rem;
+    max-width: 50rem;
+}
